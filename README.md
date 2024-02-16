@@ -10,7 +10,7 @@
   🔭 I contribute weekly to opensource projects (Well, so far I've been consistent contributing to projects written in PHP, Javascript, C# and Rust) <br>
   🥋 Ask me about PHP, Erlang, Elixir, Java & Typescript (prolly Rust, Golang soon enough)<br>
   📫 Reach me via [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com) <br>
-  🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety Critical Software Engineer & Technical Lead Architect<br>
+  🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer & Technical Lead Architect<br>
 <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact) -->
