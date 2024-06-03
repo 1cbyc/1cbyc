@@ -11,7 +11,7 @@
   🥋 Ask me about PHP, Erlang, Ada, Elixir, Lisp, Rust, Java & Typescript (prolly Golang soon enough)<br>
   📫 Reach me via [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com) <br>
   🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer & Technical Lead Architect<br>
-<!-- 👀 I even have a blog, see https://theirdaddy.com  -->
+  👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i now solve problems on [Leetcode](https://leetcode.com/u/1cbyc/)
 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact) -->
  <!--
