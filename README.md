@@ -1,4 +1,4 @@
-👋 Hi,
+👋 Hi there,
 ## I’m Isaac Emmanuel (@1cbyc) ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
   😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. <br>
