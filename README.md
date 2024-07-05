@@ -12,8 +12,6 @@
   📫 Reach me via [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com)<br>
   🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer & Technical Lead Architect<br>
   👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i now solve problems on [Leetcode](https://leetcode.com/u/1cbyc/)
-  🥋 Ask me about PHP, Erlang, Ada, Elixir, Lisp, C++, Python, R, MATLAB, Rust, Java & Typescript (probably, Golang soon enough - i don't find Go interesting though)<br>
-
 
 > ### Language Skill Table
 
