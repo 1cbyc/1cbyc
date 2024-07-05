@@ -8,7 +8,7 @@
   🖥 I'm now building [nidful.com](https://nidful.com), a cybersecurity platform connecting nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.<br>
   💞️ I’m looking to collaborate on all kinds of offensive security, financial engineering and web development tasks with businesses and government entities.<br>
   🔭 I also decided to pursure a second degree in Mathematics and Computer Science to satisfy my obsession with fourier series and laplace.<br>
-  🥋 Ask me about PHP, Erlang, Ada, Elixir, Lisp, C++, Python, R, MATLAB, Java & Typescript (probably, Golang soon enough - i don't find Go interesting though)<br>
+  🥋 Ask me about PHP, Erlang, Ada, Lisp, C/C++, C#, Java, Python and Typescript (probably, Golang soon enough - i don't even find Go interesting though)<br>
   📫 Reach me via [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com) <br>
   🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer & Technical Lead Architect<br>
   👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i now solve problems on [Leetcode](https://leetcode.com/u/1cbyc/)
