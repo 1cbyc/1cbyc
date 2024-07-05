@@ -1,10 +1,10 @@
 👋 Hi there,
 ## I’m Isaac Emmanuel (@1cbyc) ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
-  😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. <br>
+  😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'.<br>
   🌱 I’m currently learning to be great at communicating with people.<br>
-  👀 I’m interested in information security, and financial engineering.<br>
-  🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others.<br>
+  👀 I’m interested in information security and financial engineering.<br>
+  🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others about three years ago, before i discontinued due to regulations.<br>
   🖥 I'm building [nidful.com](https://nidful.com) (a bug bounty platform for Nigerians) to satisfy my ego.<br>
   💞️ I’m looking to collaborate on all kinds of offensive security, blockchain and web development tasks with startups and government entities.<br>
   🔭 I have decided to pursure a second degree in Mathematics and Computer Science to satisfy my obsession with fourier series and laplace.<br>
