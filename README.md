@@ -6,7 +6,7 @@
   👀 I’m interested in information security and financial engineering.<br>
   🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others about three years ago, before i discontinued due to regulations.<br>
   🖥 I'm now building [nidful.com](https://nidful.com), a cybersecurity platform connecting nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.<br>
-  💞️ I’m looking to collaborate on all kinds of offensive security, blockchain and web development tasks with startups and government entities.<br>
+  💞️ I’m looking to collaborate on all kinds of offensive security, financial engineering and web development tasks with businesses and government entities.<br>
   🔭 I have decided to pursure a second degree in Mathematics and Computer Science to satisfy my obsession with fourier series and laplace.<br>
   🔭 I contribute weekly to opensource projects (Well, so far I've not been consistent contributing to projects written in PHP, Javascript, C# and Rust) <br>
   🥋 Ask me about PHP, Erlang, Ada, Elixir, Lisp, C++, Python, R, MATLAB, Java & Typescript (probably, Golang soon enough - i don't find Go interesting though)<br>
