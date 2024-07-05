@@ -22,14 +22,15 @@
 |--------------|------------|---------------|
 | C/C++        | PHP        | Go            |
 | C#           | Ada        | Rust          |
-| Java         | Erlang     |               |
-| Python       | Lisp       |               |
-| MATLAB       | Typescript |               |
-| R            |            |               |
+| Java         | Erlang     | R             |
+| Python       | Lisp       | MATLAB        |
+| Typescript   |            |               |
 
 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact) -->
+ <!--
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1cbyc&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <br><br><hr>
 
 #### This Github  is dedicated to the woman of my dreams. I love you alot! ❤️🌹
