@@ -25,6 +25,6 @@
 | Python       | Lisp       | MATLAB        |
 | Typescript   |            |               |
 
-<br><br><hr>
+<hr>
 
 #### This Github  is dedicated to the woman of my dreams. I love you alot! ❤️🌹
