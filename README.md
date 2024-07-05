@@ -20,9 +20,9 @@
 
 | Near Mastery | Godlevel   | Experimenting |
 |--------------|------------|---------------|
-| C/C++        | PHP        | Go            |
-| C#           | Ada        | Rust          |
-| Java         | Erlang     | R             |
+| C/C++        | PHP        | R             |
+| C#           | Ada        | Go            |
+| Java         | Erlang     | Rust          |
 | Python       | Lisp       | MATLAB        |
 | Typescript   |            |               |
 
