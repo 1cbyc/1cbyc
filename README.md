@@ -13,7 +13,7 @@
   🥋 If I wanted a fulltime role, I'm certain I'd perform exceptionally in any of the following roles (at midlevel to senior level): Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer, and/or Quant Developer<br>
   👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i now solve problems on [Leetcode](https://leetcode.com/u/1cbyc/)
 
-> ### Language Skill Table
+> ### My Language Skill Table
 
 | Near Mastery | Godlevel   | Experimenting |
 |--------------|------------|---------------|
