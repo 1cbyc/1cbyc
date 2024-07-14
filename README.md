@@ -3,7 +3,7 @@
 ## I’m Isaac Emmanuel ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
   😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'.<br>
-  🌱 I’m currently learning to be great at communicating with people.<br>
+  🌱 I’m currently learning to be great at communicating with people. (in the past, i didn't care much about it)<br>
   👀 I’m interested in information security and financial engineering.<br>
   🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others about three years ago, before i discontinued due to regulations.<br>
   🖥 I'm now building [nidful.com](https://nidful.com), a cybersecurity platform connecting nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.<br>
