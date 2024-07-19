@@ -12,7 +12,7 @@
   🥋 Ask me about PHP, Erlang, Ada, Lisp, C/C++, C#, Java, Python and Typescript (probably, Golang soon enough - i don't even find Go interesting though)<br>
   📫 Reach me via [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com)<br>
   🥋 If I wanted a fulltime role, I'm certain I'd perform exceptionally in any of the following roles (at midlevel to senior level): Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer, and/or Quant Developer<br>
-  👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i now solve problems on [Leetcode](https://leetcode.com/u/1cbyc/) ranking 380k
+  👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i got involved in solving problems on [Leetcode](https://leetcode.com/u/1cbyc/) ranking 380k
 
 > ### My Language Skill Table
 
