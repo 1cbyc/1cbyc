@@ -1,6 +1,6 @@
 👋 Hi there,
 <!--## I’m Isaac Emmanuel (@1cbyc) ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)-->
-## I’m Emmanuel Isaac ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
+## I’m Emmanuel Isaac, and i build software for every day use.  ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
   😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'.<br>
   🌱 I’m currently learning to be great at communicating with people.<br>
