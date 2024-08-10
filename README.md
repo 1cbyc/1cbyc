@@ -1,28 +1,66 @@
-👋 Hi there,
-## I’m Emmanuel Isaac, and i build software for every day use.  ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
+# 👋 Hello, I'm Emmanuel Isaac
 
-  😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'.<br>
-  🌱 I’m currently learning to be great at communicating with people.<br>
-  👀 I’m interested in information security and financial engineering.<br>
-  🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others about three years ago, before i discontinued due to regulations.<br>
-  🖥 I'm now building [nidful.com](https://nidful.com), a cybersecurity platform connecting nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.<br>
-  💞️ I’m looking to collaborate on all kinds of offensive security, financial engineering and web development tasks with businesses and government entities.<br>
-  🔭 I also decided to pursure a second degree in Mathematics and Computer Science to satisfy my obsession with fourier series and laplace.<br>
-  🥋 Ask me about PHP, Erlang, Ada, Lisp, C/C++, C#, Java, Python and Typescript (probably, Golang soon enough - i don't even find Go interesting though)<br>
-  📫 Reach me via [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com)<br>
-  🥋 If I wanted a fulltime role, I'd perform exceptionally in any of the following roles (at midlevel to senior level): Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer, Safety-Critical Software Engineer, and/or Quant Developer<br>
-  👀 I even used to maintain a [blog](https://ei.nsisong.com) but recently, i got involved in solving problems on [Leetcode](https://leetcode.com/u/1cbyc/) ranking 380k
+**Software Engineer | Security Researcher**
 
-> ### My Programming Language Skillset Table
+![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
-| Near Mastery | Godlevel   | Experimenting |
-|--------------|------------|---------------|
-| C/C++        | PHP        | R             |
-| C#           | Ada        | Go            |
-| Java         | Erlang     | Rust          |
-| Python       | Lisp       | MATLAB        |
-| Typescript   |            |               |
+---
 
-<hr>
+😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. I'm passionate about building software that solves real-world problems and contributes to technological advancement.
 
-#### This Github  is dedicated to the woman of my dreams. I love you alot! ❤️🌹
+## 🔍 What I Do
+- **Full-Stack Development**: I design and build robust web applications. Previously, I built [p2pfi.co](https://alpha.p2pfi.co), a self-custodial crypto marketplace, with my brother.
+- **Safety-Critical Systems**: I develop software for safety-critical applications in both **healthcare** and **aviation**, ensuring that these systems are reliable, secure, and meet stringent regulatory standards.
+- **Offensive Security**: With my experience in identifying and exploiting vulnerabilities, I've helped some startups (and government agencies) secure their systems before attackers could. This led me to start [Nidful](https://nidful.com), a platform connecting Nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.
+- **Financial Engineering**: I have this passing interest in financial systems and algorithmic trading, I leverage my technical skills to explore and innovate within this domain.
+
+## 🌱 Learning & Growth
+- After transitioning from a degree in Pasture and Range Management, I completed my Bachelor's degree in Computer Science. I am now pursuing a second degree in **Mathematics and Computer Science** to master areas like Fourier series, Laplace transforms, and their applications in engineering and finance.
+- I am continuously enhancing my communication skills to better share my ideas and collaborate effectively.
+
+## 🛠 Tech Stack & Expertise
+
+### Programming Languages
+- **Near Mastery:** `C/C++`, `C#`, `Java`, `Python`, `TypeScript`
+- **Godlevel:** `PHP`, `Ada`, `Erlang`, `Lisp`
+- **Experimenting:** `R`, `Go`, `Rust`, `MATLAB`
+
+### Technologies
+- **Web Development**: HTML, CSS, TypeScript, PHP, MySQL, PostgreSQL, SQLite, Django, Flask, NestJS.
+- **Blockchain Development**: Solidity, Smart Contracts, Ethereum, Hyperledger.
+- **Systems Programming**: C, C++, Rust, Embedded Systems, Real-Time Operating Systems (RTOS).
+- **Safety-Critical Software**: Verification & Validation (V&V), Static Analysis, Formal Methods, Safety Standards (DO-178C, ISO 26262).
+- **Quantitative Development**: Python, R, MATLAB, QuantLib, Data Science, Machine Learning.
+
+### Known Skills
+- **Algorithms & Data Structures**: I'm quite proficient in designing and optimizing algorithms and data structures for complex problems.
+- **Security Analysis**: Obviously skilled in penetration testing, vulnerability assessment, and secure coding practices.
+- **System Design & Architecture**: I've shown sufficient efficiency in designing scalable, high-performance systems with a focus on security and reliability.
+- **Project Management**: I have experience in leading projects from conception to deployment, ensuring they meet both technical and business objectives.
+- **Communication**: I'm working on building a strong ability to convey complex technical concepts clearly and effectively to both technical and non-technical audiences.
+
+## 💼 Open to Collaboration
+I'm eager to collaborate with businesses, government entities, and innovative startups on:
+- **Web Development**: Full-stack projects, from concept to deployment, with a focus on security and performance.
+- **Safety-Critical Systems**: Developing and verifying reliable software solutions for **healthcare** and **aviation** industries.
+- **Offensive Security Projects**: Penetration testing, vulnerability assessments, and secure software development.
+- **Financial Engineering**: Building algorithms and models for trading, risk management, and financial analysis.
+
+## 🔭 Looking Ahead
+If you're looking for someone who can lead or contribute to groundbreaking projects, I excel in roles such as:
+- **Full-Stack Developer**
+- **Backend Developer**
+- **Safety-Critical Software Engineer**
+- **Blockchain Developer**
+- **Systems Programmer**
+- **Quant Developer** `(maybe, entry level)`
+
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
+- **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
+
+> ### Fun Fact
+> I used to maintain a [blog](https://ei.nsisong.com), but lately, I've been solving problems on [Leetcode](https://leetcode.com/u/1cbyc/), where I'm currently ranked in the top 380k and getting involved in contributing to the development of safety-critical systems. 🥋
+
+## 💖 Dedication
+This GitHub is dedicated to the woman of my dreams. I love you so much! ❤️🌹
