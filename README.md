@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Emmanuel Isaac
 
-**Software Engineer | Security Researcher** ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
+**Software Engineer | Security Researcher**     ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
 ---
 
