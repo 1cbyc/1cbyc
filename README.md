@@ -4,7 +4,7 @@
 
 ---
 
-😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. I'm passionate about building software that solves real-world problems and contributes to technological advancement.
+😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. I'm passionate about building software that solves real-world problems.
 
 ## 🔍 What I Do
 - **Full-Stack Development**: I design and build robust web applications. Previously, I built [p2pfi.co](https://alpha.p2pfi.co), a self-custodial crypto marketplace, with my brother.
