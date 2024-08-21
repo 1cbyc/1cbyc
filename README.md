@@ -13,7 +13,7 @@
 - **Financial Engineering**: I have this passing interest in financial systems and algorithmic trading, I leverage my technical skills to explore and innovate within this domain.
 
 ## 🌱 Learning & Growth
-- After transitioning from a degree in Pasture and Range Management, I completed my Bachelor's degree in Computer Science. I am now pursuing a second degree in **Mathematics and Computer Science** to master areas like Fourier series, Laplace transforms, and their applications in engineering and finance.
+- After moving from a degree in Pasture and Range Management, I completed my Bachelor's degree in Computer Science. I am now pursuing a second degree in **Mathematics and Computer Science** to master areas like Fourier series, Laplace transforms, and their applications in engineering and finance.
 - I am continuously enhancing my communication skills to better share my ideas and collaborate effectively.
 
 ## 🛠 Tech Stack & Expertise
