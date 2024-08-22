@@ -58,7 +58,7 @@ If you're looking for someone who can lead or contribute to groundbreaking proje
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 
 > ### Fun Fact
-> I used to maintain a [blog](https://ei.nsisong.com), but lately, I've been solving problems on [Leetcode](https://leetcode.com/u/1cbyc/), where I'm currently ranked in the top 380k and getting involved in contributing to the development of safety-critical systems. 🥋
+> I used to maintain a [blog](https://ei.nsisong.com), but lately, I've been solving problems on [Leetcode](https://leetcode.com/u/1cbyc/), where I'm currently ranked in the top 370k and getting involved in contributing to the development of safety-critical systems. 🥋
 
 ## 💖 Dedication
 This GitHub is dedicated to the woman of my dreams. I love you so much! ❤️🌹
