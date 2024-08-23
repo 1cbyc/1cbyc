@@ -14,7 +14,7 @@
 
 ## 🌱 Learning & Growth
 - After moving from a degree in Pasture and Range Management, I completed my Bachelor's degree in Computer Science. I am now pursuing a second degree in **Mathematics and Computer Science** to master areas like Fourier series, Laplace transforms, and their applications in engineering and finance.
-- I am continuously enhancing my communication skills to better share my ideas and collaborate effectively.
+- I am continuously trying to enhance my communication skills to better share my ideas and collaborate effectively.
 
 ## 🛠 Tech Stack & Expertise
 
