@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emmanuel Isaac
+# 👋 Hello, I'm Emmanuel Isaac,and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about areas like blockchain, offensive security, safety-critical engineering (especially in healthcare), and open-source software.
 
 **Software Engineer | Security Researcher**     ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
