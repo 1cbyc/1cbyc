@@ -1,13 +1,20 @@
 
 
 ## 🔭 take a leap
-If you’re seeking someone to drive innovation and deliver impactful solutions, consider me for roles in:
+If you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because I'm excited to collaborate on:
+- **Backend Development**: Building scalable and efficient backend systems and APIs.
+- **Full-Stack Development**: Developing comprehensive web applications and solutions.
+- **WordPress Development**: Customizing and optimizing WordPress sites.
+- **Machine Learning Engineering**: Designing and deploying machine learning models for various applications.
+- **Safety-Critical Systems Development**: Ensuring software reliability and compliance in healthcare and aviation.
+- **Automation Engineering**: Streamlining processes through automation and scripting.
+<!-- If you’re seeking someone to drive innovation and deliver impactful solutions, consider me for roles in:
 - **Backend Development**
 - **Full-Stack Development**
 - **WordPress Development**
 - **Machine Learning Engineering**
 - **Safety-Critical Software Engineering**
-- **Automation Engineering**
+- **Automation Engineering** -->
 
 ## 📫 connect with me
 - **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
@@ -15,4 +22,5 @@ If you’re seeking someone to drive innovation and deliver impactful solutions,
 
 ## 💖 cheers
 This GitHub is dedicated to the woman of my dreams. I love you so much! ❤️🌹
+
 
