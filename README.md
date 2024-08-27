@@ -46,8 +46,9 @@ I'm eager to collaborate with businesses, government entities, and innovative st
 
 ## 🔭 Looking Ahead
 If you're looking for someone who can lead or contribute to groundbreaking projects, I excel in roles such as:
-- **Full-Stack Developer**
 - **Backend Developer**
+- **Full-Stack Developer**
+- **ML Engineer**
 - **Safety-Critical Software Engineer**
 - **Blockchain Developer**
 - **Systems Programmer**
