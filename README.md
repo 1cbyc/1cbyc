@@ -7,3 +7,5 @@ These days, I focus on building **safety-critical software** and **automating da
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
 ---
+
+😹 Over here, someone calls me 'Dad'; Another calls me 'Daddy' and others call me 'Boss'. Fortunately, what truly drives me is building software that solves real-world problems.
