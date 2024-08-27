@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emmanuel Isaac
+#### 👋 Hello, I'm Emmanuel Isaac, and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about offensive security, safety-critical engineering, and open-source software.
 
 ## 🔭 take a leap
 If you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because I'm excited to collaborate on:
