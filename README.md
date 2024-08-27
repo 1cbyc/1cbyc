@@ -42,7 +42,7 @@ I'm eager to collaborate with businesses, government entities, and innovative st
 - **Web Development**: Full-stack projects, from concept to deployment, with a focus on security and performance.
 - **Safety-Critical Systems**: Developing and verifying reliable software solutions for **healthcare** and **aviation** industries.
 - **Offensive Security Projects**: Penetration testing, vulnerability assessments, and secure software development.
-- **Financial Engineering**: Building algorithms and models for trading, risk management, and financial analysis.
+<!-- - **Financial Engineering**: Building algorithms and models for trading, risk management, and financial analysis. -->
 
 ## 🔭 Looking Ahead
 If you're looking for someone who can lead or contribute to groundbreaking projects, I excel in roles like:
