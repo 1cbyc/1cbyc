@@ -1,4 +1,4 @@
-
+# 👋 Hello, I'm Emmanuel Isaac
 
 ## 🔭 take a leap
 If you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because I'm excited to collaborate on:
@@ -21,6 +21,6 @@ If you're looking out for someone to drive innovation and deliver impactful solu
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 
 ## 💖 cheers
-This GitHub is dedicated to the woman of my dreams. I love you so much! ❤️🌹
+i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
 
 
