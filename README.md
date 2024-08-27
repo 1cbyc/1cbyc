@@ -18,7 +18,7 @@ These days, I focus on building **safety-critical software** and **automating da
 
 ## 🌱 Learning & Growth
 - After moving from Pasture and Range Management, I earned my Bachelor's degree in Computer Science and I'm now pursuing a second degree in **Mathematics and Computer Science** with the intention of mastering **Fourier series**, **Laplace transforms**, and their applications in engineering.
-- I'm continuously enhancing my communication skills to better share ideas and collaborate effectively.
+- I'm working on making my communication skills much better to help me share ideas and collaborate effectively.
 
 ## 🛠 Tech Stack & Expertise
 
