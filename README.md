@@ -51,7 +51,7 @@ If you're looking for someone who can lead or contribute to groundbreaking proje
 - **Machine Learning Engineering**
 - **Safety-Critical Software Engineering**
 - **Automation Engineering**
-- **Blockchain Development** `(2017-2021, now consultations only)`
+- **Blockchain Development** `(active 2017-2021, now consultations only)`
 <!-- - **Quant Development** `(maybe, entry level)` -->
 <!-- - **Systems Programmer** -->
 
