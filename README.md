@@ -22,10 +22,15 @@ These days, I focus on building **safety-critical software** and **automating da
 
 ## 🛠 Tech Stack & Expertise
 
-### Programming Languages
-- **Near Mastery:** `C/C++`, `C#`, `Java`, `Python`, `TypeScript`
-- **Godlevel:** `PHP`, `Ada`, `Erlang`, `Lisp`
-- **Experimenting:** `R`, `Go`, `Rust`, `MATLAB`
+### Programming Languages Skill Table
+
+| Near Mastery | Godlevel   | Experimenting |
+|--------------|------------|---------------|
+| C/C++        | PHP        | R             |
+| C#           | Ada        | Go            |
+| Java         | Erlang     | Rust          |
+| Python       | Lisp       | MATLAB        |
+| Typescript   |            |               |
 
 ### Technologies
 - **Web Development**: HTML, CSS, TypeScript, PHP, MySQL, PostgreSQL, SQLite, Django, Flask, NestJS
