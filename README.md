@@ -45,14 +45,16 @@ I'm eager to collaborate with businesses, government entities, and innovative st
 - **Financial Engineering**: Building algorithms and models for trading, risk management, and financial analysis.
 
 ## 🔭 Looking Ahead
-If you're looking for someone who can lead or contribute to groundbreaking projects, I excel in roles such as:
-- **Backend Developer**
-- **Full-Stack Developer**
-- **ML Engineer**
-- **Safety-Critical Software Engineer**
-- **Blockchain Developer**
-- **Systems Programmer**
-- **Quant Developer** `(maybe, entry level)`
+If you're looking for someone who can lead or contribute to groundbreaking projects, I excel in roles like:
+- **Backend Development**
+- **Full-Stack Development**
+- **Machine Learning Engineering**
+- **Safety-Critical Software Engineering**
+- **Automation Engineering**
+- **Blockchain Development** `(2017-2021, now consultations only)`
+<!-- - **Quant Development** `(maybe, entry level)` -->
+<!-- - **Systems Programmer** -->
+
 
 ## 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
