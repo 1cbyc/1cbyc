@@ -6,7 +6,7 @@
 
 😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. I'm passionate about building software that solves real-world problems.
 
-## 🔍 What I Do
+## 🔍 What I Do?
 - **Full-Stack Development**: I design and build robust web applications. Previously, I built [p2pfi.co](https://alpha.p2pfi.co), a self-custodial crypto marketplace, with my brother.
 - **Safety-Critical Systems**: I develop software for safety-critical applications in both **healthcare** and **aviation**, ensuring that these systems are reliable, secure, and meet stringent regulatory standards.
 - **Offensive Security**: With my experience in identifying and exploiting vulnerabilities, I've helped some startups (and government agencies) secure their systems before attackers could. This led me to start [Nidful](https://nidful.com), a platform connecting Nigerian businesses with ethical hackers to identify and fix security vulnerabilities through bug bounty programs and vulnerability disclosure.
