@@ -5,7 +5,7 @@ If you're looking out for someone to drive innovation and deliver impactful solu
 - **Backend Development**: Building scalable and efficient backend systems and APIs.
 - **Full-Stack Development**: Developing comprehensive web applications and solutions.
 - **WordPress Development**: Customizing and optimizing WordPress sites.
-- **Machine Learning Engineering**: Designing and deploying machine learning models for various applications.
+- **Machine Learning Engineering**: Designing and deploying machine learning models for different applications.
 - **Safety-Critical Systems Development**: Ensuring software reliability and compliance in healthcare and aviation.
 - **Automation Engineering**: Streamlining processes through automation and scripting.
 <!-- If you’re seeking someone to drive innovation and deliver impactful solutions, consider me for roles in:
