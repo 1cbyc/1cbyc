@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
 ## 🔭 take a leap
-If you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because I'm excited to collaborate on backend development, automation engineering and machine learning engineering.
+if you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because i'm excited to collaborate on backend development, automation engineering and machine learning engineering projects.
 
 ## 📫 connect with me
 - **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
