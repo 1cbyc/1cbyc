@@ -23,7 +23,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 ## what i've done (under nda)
 - Laboratory Result Automation System
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php api development`
-
+- NidFul [view project](https://nidful.com/) / `java/php api development`
 
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
