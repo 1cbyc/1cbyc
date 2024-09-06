@@ -20,7 +20,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
 - Custom Resume Sorting System [view source](https://github.com/1cbyc/resume_screener) / [view live]()
 
-## what i've done (under nda)
+## what i've done (under nda/closed source)
 - Laboratory Result Automation System
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php api development`
 - NidFul [view project](https://nidful.com/) / `java/php api development`
