@@ -10,7 +10,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 
 ## what i've done
-- Custom Web Scraper [See Source code](https://github.com/1cbyc/1cbyc-web-scraper) [View Live](https://webscraper.nsisong.com)
+- Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
 - 
 
 ## 💖 cheers
