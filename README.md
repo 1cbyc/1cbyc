@@ -15,7 +15,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live]()
 - DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
 - Custom Medicare Data Encryption Tool [check source](https://github.com/1cbyc/healthcare_data_encryption_tool) / [view live]()
-- 
+- Aviation Analytic Safety Management System [check source](https://github.com/1cbyc/aviation-safety-management-system) / [view live](asms.nsisong.com)
 
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
