@@ -9,13 +9,15 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 
-## what i've done
+## what i've done (in public)
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
 - Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live]()
 - DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
 - Custom Medicare Data Encryption Tool [check source](https://github.com/1cbyc/healthcare_data_encryption_tool) / [view live]()
 - Aviation Analytic Safety Management System [check source](https://github.com/1cbyc/aviation-safety-management-system) / [view live](asms.nsisong.com)
+- EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
+- Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
 
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
