@@ -24,6 +24,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Laboratory Result Automation System
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php api development`
 - NidFul [view project](https://nidful.com/) / `java/php api development`
+- `i have more than 200 web projects to showcase, and a little over 11 smart contract development projects to showcase here and 3 safety critical engineering project to showcase (for healthcare, ofcourse)`
 
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
