@@ -18,6 +18,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Aviation Analytic Safety Management System [check source](https://github.com/1cbyc/aviation-safety-management-system) / [view live](asms.nsisong.com)
 - EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
 - Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
+- Custom Resume Sorting System [view source](https://github.com/1cbyc/resume_screener) / [view live]()
 
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
