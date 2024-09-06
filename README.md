@@ -11,6 +11,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 
 ## what i've done
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
+- Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
 - 
 
 ## 💖 cheers
