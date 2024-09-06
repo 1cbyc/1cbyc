@@ -20,5 +20,9 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
 - Custom Resume Sorting System [view source](https://github.com/1cbyc/resume_screener) / [view live]()
 
+## what i've done (under nda)
+- 
+
+
 ## 💖 cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
