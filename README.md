@@ -19,6 +19,8 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
 - Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
 - Custom Resume Sorting System [view source](https://github.com/1cbyc/resume_screener) / [view live]()
+- Emem Network Analyzer [view source](https://github.com/1cbyc/emem_network_analyzer)
+- File Encryptor `c`
 
 ## what i've done (private src)
 - Laboratory Result Automation System
