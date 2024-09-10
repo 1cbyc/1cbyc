@@ -20,7 +20,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Medical Device Monitoring Tool [view source](https://github.com/1cbyc/medical_device_monitor) / [view live]()
 - Custom Resume Sorting System [check source](https://github.com/1cbyc/resume_screener) / [view live]()
 - Emem Network Analyzer [check source](https://github.com/1cbyc/emem_network_analyzer) / [view live]()
-- File Encryptor `c`[check source](https://github.com/1cbyc/c-file-encryptor) / [view live]()
+- File Encryptor `(written in c)`[check source](https://github.com/1cbyc/c-file-encryptor) / [view live]()
 
 ## what i've done (private src)
 - Laboratory Result Automation System
