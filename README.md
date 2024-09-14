@@ -23,7 +23,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - File Encryptor `(written in c)` [check source](https://github.com/1cbyc/c-file-encryptor) / [view live]()
 
 ## what i've done (private src)
-- Laboratory Result Automation System
+- Laboratory Result Automation System 
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php` `api development`
 - NidFul [view project](https://nidful.com/) / `java/php`  `api development`
 - `200 web projects`
@@ -33,5 +33,5 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 [//]: # (- `i have more than 200 web projects to showcase, and a little over 11 smart contract development projects to showcase here and 3 safety critical engineering project to showcase &#40;for healthcare, ofcourse&#41;`)
 
 
-## 💖 cheers
+## 💖 ok, cheers
 i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
