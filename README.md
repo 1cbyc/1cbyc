@@ -8,6 +8,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 ## 📫 connect with me
 - **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
+- **see my website**: [nsisong.com](https://nsisong.com/)
 
 ## what i've done (public src)
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
