@@ -10,7 +10,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 - **see my website**: [nsisong.com](https://nsisong.com/)
 
-## what i've done (public src)
+## what i've done (w/ open source code)
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
 - Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live]()
@@ -23,7 +23,7 @@ if you're looking out for someone to drive innovation and deliver impactful solu
 - Emem Network Analyzer [check source](https://github.com/1cbyc/emem_network_analyzer) / [view live]()
 - File Encryptor `(written in c)` [check source](https://github.com/1cbyc/c-file-encryptor) / [view live]()
 
-## what i've done (private src)
+## what i've done (w/ private src)
 - Laboratory Result Automation System 
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php` `api development`
 - NidFul [view project](https://nidful.com/) / `java/php`  `api development`
