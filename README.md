@@ -1,4 +1,4 @@
-#### 👋 I'm Emmanuel Isaac, and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about offensive security, safety-critical engineering, and open-source software. Out of curiosity, I've decided to go for another degree in mathematics and computer science.
+#### 👋 I'm Isaac, and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about offensive security, safety-critical engineering, and open-source software. Out of curiosity, I've decided to go for another degree in mathematics and computer science.
 
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
