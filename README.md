@@ -1,14 +1,15 @@
-#### 👋 I'm Isaac Emmanuel, and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about offensive security, safety-critical engineering, and open-source software. Out of curiosity, I've decided to go for another degree in mathematics and computer science.
+<!-- #### 👋 I'm Isaac Emmanuel, and these days, I spend more time building safety-critical software and automating day-to-day processes with code. I'm passionate about offensive security, safety-critical engineering, and open-source software. Out of curiosity, I've decided to go for another degree in mathematics and computer science. -->
+#### 👋 I'm Isaac Emmanuel, and these days, I spend more time studying and writing safety-critical software while automating day-to-day processes with code. Out of curiosity, I've decided to go for another degree in mathematics. -->
 
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
 ## 🔭 wanna take a leap?
-if you're looking out for someone to drive innovation and deliver impactful solutions, consider me, because i'm excited to collaborate on custom web development, backend development, automation engineering and machine learning engineering projects.
+besides, if you're looking out for someone to deliver impactful solutions, consider me, because i'm excited to collaborate on custom web development, backend development, automation engineering and machine learning engineering projects.
 
-## 📫 connect with me
-- **LinkedIn**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
-- **Email**: [ei@nsisong.com](mailto:ei@nsisong.com)
-- **see my website**: [nsisong.com](https://nsisong.com/)
+## you can also connect with me via
+- **linkedin**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
+- **or email**: [ei@nsisong.com](mailto:ei@nsisong.com)
+- **or you can just see my website**: [nsisong.com](https://nsisong.com/)
 
 ## what i've done (w/ open source code)
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
