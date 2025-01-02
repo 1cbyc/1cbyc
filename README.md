@@ -4,12 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
-## 🔭 wanna take a leap?
-besides, if you're looking out for someone to deliver impactful solutions, consider me, because i'm excited to collaborate on custom web development, backend development, automation engineering and machine learning engineering projects.
+## 🔭 walk with me...
+If you're looking for someone to deliver impactful solutions, consider me. I'm excited to collaborate on custom web development, backend development, smart contracts, quantitative finance, automation engineering, and safety-critical engineering projects.
 
-## you can also connect with me via
-- **linkedin**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
-- **or email**: [ei@nsisong.com](mailto:ei@nsisong.com)
+## you can also connect with me:
+- **Linkedin**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
+- **The good ol' email**: [ei@nsisong.com](mailto:ei@nsisong.com)
 - **or you can just see my website**: [nsisong.com](https://nsisong.com/)
 
 ## what i've done (w/ open source code)
@@ -37,4 +37,4 @@ besides, if you're looking out for someone to deliver impactful solutions, consi
 
 
 ## 💖 ok, cheers
-i dedicate this github to the woman of my dreams. i love you so much! ❤️🌹
+I dedicate this GitHub to the woman of my dreams. I love you so much! ❤️🌹
