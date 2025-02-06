@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
 
 ## 🔭 walk with me...
-If you're looking for someone to deliver impactful solutions, consider me. I'm excited to collaborate on custom web development, backend development, smart contracts, quantitative finance, automation engineering, and safety-critical engineering projects.
+If you're looking for someone to deliver really impactful solutions, consider me. I'm excited to collaborate on custom web development, backend development, smart contracts, quantitative finance, automation engineering, and safety-critical engineering projects.
 
 ## you can also connect with me:
 - **Linkedin**: [linkedin.com/in/isaacnsisong](https://linkedin.com/in/isaacnsisong)
