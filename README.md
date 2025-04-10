@@ -8,10 +8,13 @@ That said, since I have spent a little over a decade as a fullstack developer, I
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live]()
 - DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
+- Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
 - Nigerian Bank ATM Simulator [Bank ATM Simulator](https://github.com/1cbyc/atm_simulation) `java`
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php` `api development
+- EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
 - NidFul [view project](https://nidful.com/) / `java/php` `api development`
 - Laboratory Result Automation System for InterSwitch eClinic
+- Emem Network Analyzer [check source](https://github.com/1cbyc/emem_network_analyzer) / [view live]()
 
 As much as I use [Twitter](https://x.com/1cbyc) alot, I prefer people reaching out to me via **email** on [ei@nsisong.com](mailto:ei@nsisong.com). Although you can check my [LinkedIn](https://linkedin.com/in/isaacnsisong) if you feel like it.
 
