@@ -20,3 +20,20 @@ As much as I use [Twitter](https://x.com/1cbyc) alot, I prefer people reaching o
 
 ## 💖 ok, cheers
 I dedicate this GitHub to the woman of my dreams. I love you so much! ❤️🌹
+
+<!--
+Quant Developer responsibilities:
+Build and maintain the technology infrastructure that quants use
+Implement trading algorithms and models in production systems
+Develop pricing engines, risk management platforms, backtesting frameworks
+Optimize code for speed (microsecond latencies matter in HFT)
+Build data pipelines for market data feeds
+Create tools and libraries that quant researchers use
+
+Key skills:
+Strong programming (C++, Python, Java - C++ especially important for speed)
+System architecture and distributed computing
+Database design and optimization
+Understanding financial markets (but less deep than pure quants)
+DevOps, cloud platforms, real-time systems
+-->
