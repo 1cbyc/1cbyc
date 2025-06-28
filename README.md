@@ -7,7 +7,7 @@ I also made a decision to create and maintain my own [Youtube Channel](https://w
 That said, since I have spent a little over a decade as a fullstack developer, I should also show some of the projects I worked on that I found interesting too:
 - Smart Contract Vulnerability Scanner [check cource](https://github.com/1cbyc/secure-audit) / [view live](https://secure-audit.nsisonglabs.xyz) `typescript`
 - Nigerian Bank ATM Simulator [Bank ATM Simulator](https://github.com/1cbyc/atm_simulation) `java`
-- Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisong.com)
+- Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisonglabs.xyz) `python` `vue`
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live]()
 - DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
 - Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
