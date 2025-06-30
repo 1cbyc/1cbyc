@@ -10,7 +10,7 @@ That said, since I have spent a little over a decade as a fullstack developer, I
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisonglabs.xyz) `python` `vue`
 - Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live](https://pneumonia-detection.nsisonglabs.xyz/) `python` `react` `kaggle`
 - DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
-- Custom Stock Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
+- 11 Strategy High Efficiency Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
 - Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php` `api development
 - EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
 - NidFul [view project](https://nidful.com/) / `java/php` `api development`
