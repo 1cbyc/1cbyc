@@ -2,9 +2,12 @@
 
 Hi! I'm Isaac, and I have spent the last 11 years building over 237 websites, smart contracts and information security tools for people doing things I find interesting. I recently started a new combined degree in mathematics and computer science (my third degree, in fact) with hopes of becoming a 10x math guy while doing new things.
 
+<!--
 I also made a decision to create and maintain my own [Youtube Channel](https://www.youtube.com/@1cbyc) this year, 2025 to document what i'm building in my spare time, and how far my curiosity has lead me as a programmer. Currently, I've decided to master programming Java this year, as I navigate the waters of quantitative finance and I am excited to show what I'm doing.
+-->
+At the beginning of 2025, I decided to master programming Java, but as I navigate the waters of quantitative finance and I am excited to show what I'm doing across board.
 
-That said, since I have spent a little over a decade as a fullstack developer, I should also show some of the projects I worked on that I found interesting too:
+That said, since I have spent a little over a decade as a fullstack developer, I should also show some of the projects I worked on that I found interesting and try to update very often too:
 - Smart Contract Vulnerability Scanner [check cource](https://github.com/1cbyc/secure-audit) / [view live](https://secure-audit.nsisonglabs.xyz) `typescript`
 - Nigerian Bank ATM Simulator [Bank ATM Simulator](https://github.com/1cbyc/atm_simulation) `java`
 - Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisonglabs.xyz) `python` `vue`
