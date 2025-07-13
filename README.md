@@ -5,7 +5,7 @@ Hi! I'm Isaac, and I have spent the last 11 years building over 237 websites, sm
 <!--
 I also made a decision to create and maintain my own [Youtube Channel](https://www.youtube.com/@1cbyc) this year, 2025 to document what i'm building in my spare time, and how far my curiosity has lead me as a programmer. Currently, I've decided to master programming Java this year, as I navigate the waters of quantitative finance and I am excited to show what I'm doing.
 -->
-At the beginning of 2025, I decided to master programming Java, but i have decided to hold off on it as I navigate the waters of quantitative finance, I would show what I'm doing across typescript, and python this year.
+At the beginning of 2025, I decided to master programming Java, but i have decided to hold off on it as I navigate the waters of quantitative finance, I would show what I'm doing across typescript, rust, C and python this year.
 
 That said, since I have spent a little over a decade as a fullstack developer, I should also show some of the projects I worked on that I found interesting and try to update very often too:
 - Smart Contract Vulnerability Scanner [check cource](https://github.com/1cbyc/secure-audit) / [view live](https://secure-audit.nsisonglabs.xyz) `typescript`
