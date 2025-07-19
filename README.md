@@ -14,12 +14,12 @@
 
 > **Full Stack Developer & Security Researcher** with 11+ years of experience building web applications, smart contracts, and security tools.
 
-I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and AI/ML. I've successfully delivered about **120 freelance projects** and managed **90 projects** as lead developer at Nsisong Labs.
+I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and passing familiarity with AI/ML. I've successfully delivered about **120 freelance projects** and managed **90 projects** as lead developer at Nsisong Labs.
 
 ### 🎯 What I Do
-- **Full Stack Development** - Modern web applications with React, Vue, Node.js, Laravel
-- **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
+- **Full Stack Development** - I've worked on some web applications with Vue, Node.js, Laravel
 - **Blockchain Development** - Smart contracts, DeFi applications, Web3 integration
+- **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
 - **AI/ML Projects** - Image classification, neural networks, quantitative development
 - **Automation & Developer Tools** - VS Code extensions, CLI tools, automation systems
 
