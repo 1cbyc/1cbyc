@@ -1,43 +1,226 @@
-![](https://komarev.com/ghpvc/?username=1cbyc&color=blueviolet)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Isaac+Emmanuel;Full+Stack+Developer;Security+Researcher;Blockchain+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
 
-Hi! I'm Isaac, and I have spent the last 11 years building over 237 websites, smart contracts and information security tools for people doing things I find interesting. I recently started a new combined degree in mathematics and computer science (my third degree, in fact) with hopes of becoming a 10x math guy while doing new things. [See my CV online](https://github.com/1cbyc/1cbyc/blob/main/cv.md)!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1cbyc&style=flat-square&color=00D4AA" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D4AA?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Abeokuta%2C%20Nigeria-00D4AA?style=flat-square" alt="Location" />
+</div>
 
-<!--
-I also made a decision to create and maintain my own [Youtube Channel](https://www.youtube.com/@1cbyc) this year, 2025 to document what i'm building in my spare time, and how far my curiosity has lead me as a programmer. Currently, I've decided to master programming Java this year, as I navigate the waters of quantitative finance and I am excited to show what I'm doing.
--->
-At the beginning of 2025, I decided to master programming Java, but i have decided to hold off on it as I navigate the waters of quantitative finance, I would show what I'm doing across typescript, rust, C and python this year.
+---
 
-That said, since I have spent a little over a decade as a fullstack developer, I should also show some of the projects I worked on that I found interesting and try to update very often too:
-- Smart Contract Vulnerability Scanner [check cource](https://github.com/1cbyc/secure-audit) / [view live](https://secure-audit.nsisonglabs.xyz) `typescript`
-- Nigerian Bank ATM Simulator [Bank ATM Simulator](https://github.com/1cbyc/atm_simulation) `java`
-- Custom Web Scraper [check source](https://github.com/1cbyc/1cbyc-web-scraper) / [view live](https://webscraper.nsisonglabs.xyz) `python` `vue`
-- Pneumonia Image Identifier [check source](https://github.com/1cbyc/image_classification) / [view live](https://pneumonia-detection.nsisonglabs.xyz/) `python` `react` `kaggle`
-- DSA Solutions `for Leetcode` [check solutions](https://github.com/1cbyc/leetcode) `c++` `python` `java` `php`
-- 11 Strategy High Efficiency Trading Bot [check source](https://github.com/1cbyc/1cbyc-trading-bot)
-- Decentralized Cryptocurrency Marketplace [view site](https://p2pfi.co/)  / `smart contract development` `java/php` `api development`
-- EVM Auto Transfer Bot [view source](https://github.com/1cbyc/EVM-AutoTransfer-Bot)
-- NidFul [view project](https://nidful.com/) / `java/php` `api development`
-- Laboratory Result Automation System for InterSwitch eClinic
-- Emem Network Analyzer [check source](https://github.com/1cbyc/emem_network_analyzer) / [view live]()
+## 👨‍💻 About Me
 
-As much as I use [Twitter](https://x.com/1cbyc) alot, I prefer people reaching out to me via **email** on [ei@nsisong.com](mailto:ei@nsisong.com). Although you can check my [LinkedIn](https://linkedin.com/in/isaacnsisong) if you feel like it.
+> **Full Stack Developer & Security Researcher** with 11+ years of experience building web applications, smart contracts, and security tools.
 
-## 💖 ok, cheers
-I dedicate this GitHub to the woman of my dreams. I love you so much! ❤️🌹
+I'm a passionate developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and AI/ML. I've successfully delivered **120+ freelance projects** and managed **90+ projects** as lead developer at Nsisong Labs.
 
-<!--
-Quant Developer responsibilities:
-Build and maintain the technology infrastructure that quants use
-Implement trading algorithms and models in production systems
-Develop pricing engines, risk management platforms, backtesting frameworks
-Optimize code for speed (microsecond latencies matter in HFT)
-Build data pipelines for market data feeds
-Create tools and libraries that quant researchers use
+### 🎯 What I Do
+- 🌐 **Full Stack Development** - Modern web applications with React, Vue, Node.js, Laravel
+- 🔐 **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
+- ⛓️ **Blockchain Development** - Smart contracts, DeFi applications, Web3 integration
+- 🤖 **AI/ML Projects** - Image classification, neural networks, quantitative development
+- 🛠️ **Developer Tools** - VS Code extensions, CLI tools, automation systems
 
-Key skills:
-Strong programming (C++, Python, Java - C++ especially important for speed)
-System architecture and distributed computing
-Database design and optimization
-Understanding financial markets (but less deep than pure quants)
-DevOps, cloud platforms, real-time systems
--->
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Blockchain & Security
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+### AI/ML & Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 AI/ML & Image Classification
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=image_classification&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/image_classification)
+
+### 🌐 Web Scraping & Automation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=1cbyc-web-scraper&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/1cbyc-web-scraper)
+
+### ⛓️ Trading Bot & Financial Tools
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=1cbyc-trading-bot&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/1cbyc-trading-bot)
+
+### 🔐 Security & Encryption
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=c-file-encryptor&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/c-file-encryptor)
+
+### 🌐 Web Applications
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=leetcode&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/leetcode)
+
+### 🔍 Network Analysis
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=emem_network_analyzer&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/emem_network_analyzer)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1cbyc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&hide=contribs,issues" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1cbyc&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Achievements & Metrics
+
+<div align="center">
+
+### 📈 Project Statistics
+![Repositories](https://img.shields.io/badge/Repositories-80+-00D4AA?style=for-the-badge&logo=github)
+![Projects%20Delivered](https://img.shields.io/badge/Projects%20Delivered-120+-00D4AA?style=for-the-badge&logo=rocket)
+![Smart%20Contracts](https://img.shields.io/badge/Smart%20Contracts-17+-00D4AA?style=for-the-badge&logo=ethereum)
+![Security%20Assessments](https://img.shields.io/badge/Security%20Assessments-126+-00D4AA?style=for-the-badge&logo=shield-check)
+
+### 🎯 Current Focus
+![Quantitative%20Development](https://img.shields.io/badge/Quantitative%20Development-Algorithmic%20Trading-00D4AA?style=for-the-badge&logo=chart-line)
+![AI%2FML](https://img.shields.io/badge/AI%2FML-Image%20Classification-00D4AA?style=for-the-badge&logo=brain)
+![Blockchain](https://img.shields.io/badge/Blockchain-DeFi%20Development-00D4AA?style=for-the-badge&logo=bitcoin)
+
+</div>
+
+---
+
+## 🌟 Notable Projects
+
+<details>
+<summary><b>🔐 Security & Network Tools</b></summary>
+
+- **[Network Analyzer](https://github.com/1cbyc/emem_network_analyzer)** - Custom network packet analysis tool
+- **[File Encryptor](https://github.com/1cbyc/c-file-encryptor)** - Custom file encryption in C
+- **[Offensive Security Payloads](https://github.com/1cbyc/offsec-payloads)** - Penetration testing tools
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+
+- **[Image Classification](https://github.com/1cbyc/image_classification)** - Disease detection from X-rays
+- **[Neural Network Go](https://github.com/1cbyc/neural-network-go)** - Neural network implementation
+- **[Analytics Dashboard](https://github.com/1cbyc/analytics-dashboard)** - Real-time ML monitoring
+- **[Pneumonia Identifier](https://github.com/1cbyc/image_classification)** - Medical image analysis
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain & Web3</b></summary>
+
+- **[EVM Auto Transfer Bot](https://github.com/1cbyc/EVM-AutoTransfer-Bot)** - Automated blockchain transfers
+
+</details>
+
+<details>
+<summary><b>🌐 Web Applications</b></summary>
+
+- **[Go Auth API](https://github.com/1cbyc/go-auth-api)** - Ready to use Go API
+- **[NextJS Blog](https://github.com/1cbyc/next-blog-api)** - Ready to use Blog API & CMS
+
+</details>
+
+<details>
+<summary><b>🛠️ Developer Tools</b></summary>
+
+- **[Rust HTTP Load Balancer](https://github.com/1cbyc/rust-http-load-balancer)** - High-performance load balancer
+- **[Graph Drawing Method](https://github.com/1cbyc/graph-drawing-method)** - C++ graph visualization
+
+</details>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-nsisong.com-00D4AA?style=for-the-badge&logo=globe)](https://nsisong.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Emmanuel-00D4AA?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/isaacnsisong)
+[![Twitter](https://img.shields.io/badge/Twitter-@1cbyc-00D4AA?style=for-the-badge&logo=twitter)](https://twitter.com/1cbyc)
+[![Email](https://img.shields.io/badge/Email-ei@nsisong.com-00D4AA?style=for-the-badge&logo=gmail)](mailto:ei@nsisong.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00D4AA?style=for-the-badge&logo=github)](https://github.com/1cbyc?tab=repositories)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+> **Quantitative Development** - Building algorithmic trading systems, financial modeling, and risk management solutions
+
+> **AI/ML Innovation** - Exploring advanced image classification and neural network applications
+
+> **Blockchain Security** - Smart contract auditing and DeFi security assessment
+
+> **Open Source** - Contributing to developer tools and educational resources
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Available for exciting projects and collaborations!**
+
+*Let's build something amazing together* 🚀
+
+[![GitHub](https://img.shields.io/badge/GitHub-1cbyc-00D4AA?style=for-the-badge&logo=github)](https://github.com/1cbyc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nsisong.com-00D4AA?style=for-the-badge&logo=globe)](https://nsisong.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you found it helpful!</sub>
+</div> 
