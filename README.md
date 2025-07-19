@@ -126,7 +126,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 
 - **[Network Analyzer](https://github.com/1cbyc/emem_network_analyzer)** - Custom network packet analysis tool
 - **[File Encryptor](https://github.com/1cbyc/c-file-encryptor)** - Custom file encryption in C
-- **[Offensive Security Payloads](https://github.com/1cbyc/offsec-payloads)** - Penetration testing tools
+- **[Messaging Protocol](https://github.com/1cbyc/messaging-protocol)** - Encrypted Messaging Protocol for work buds
 
 </details>
 
@@ -135,7 +135,6 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 
 - **[Image Classification](https://github.com/1cbyc/image_classification)** - Disease detection from X-rays
 - **[Neural Network Go](https://github.com/1cbyc/neural-network-go)** - Neural network implementation
-- **[Analytics Dashboard](https://github.com/1cbyc/analytics-dashboard)** - Real-time ML monitoring
 - **[Pneumonia Identifier](https://github.com/1cbyc/image_classification)** - Medical image analysis
 
 </details>
@@ -144,6 +143,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 <summary><b>Blockchain & Web3</b></summary>
 
 - **[EVM Auto Transfer Bot](https://github.com/1cbyc/EVM-AutoTransfer-Bot)** - Automated blockchain transfers
+- **[Secure Audit](https://github.com/1cbyc/secure-audit)** - Smart Contract Vuln Scanner
 
 </details>
 
@@ -151,7 +151,9 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 <summary><b>Web Applications</b></summary>
 
 - **[Go Auth API](https://github.com/1cbyc/go-auth-api)** - Ready to use Go API
+- **[NextJS Auth API](https://github.com/1cbyc/api-auth)** - Ready to use NextJS API
 - **[NextJS Blog](https://github.com/1cbyc/next-blog-api)** - Ready to use Blog API & CMS
+- **[Go ToDo App API](https://github.com/1cbyc/go-todo-api)** - Todo REST API built with Go
 
 </details>
 
@@ -193,5 +195,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 ---
 
 <div align="center">
+  <sub>I dedicate this GitHub to the woman of my dreams. I love you so much! ❤️🌹</sub>
+<br>
   <sub>⭐ Star this repository if you found it helpful!</sub>
 </div> 
