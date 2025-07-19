@@ -97,19 +97,6 @@ I'm a passionate developer who started with WordPress in 2014 and evolved into a
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1cbyc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&hide=contribs,issues" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1cbyc&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
@@ -132,10 +119,10 @@ I'm a passionate developer who started with WordPress in 2014 and evolved into a
 
 ---
 
-## 🌟 Notable Projects
+## 😋 Notable Projects
 
 <details>
-<summary><b>🔐 Security & Network Tools</b></summary>
+<summary><b>Security & Network Tools</b></summary>
 
 - **[Network Analyzer](https://github.com/1cbyc/emem_network_analyzer)** - Custom network packet analysis tool
 - **[File Encryptor](https://github.com/1cbyc/c-file-encryptor)** - Custom file encryption in C
@@ -144,7 +131,7 @@ I'm a passionate developer who started with WordPress in 2014 and evolved into a
 </details>
 
 <details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>AI/ML & Data Science</b></summary>
 
 - **[Image Classification](https://github.com/1cbyc/image_classification)** - Disease detection from X-rays
 - **[Neural Network Go](https://github.com/1cbyc/neural-network-go)** - Neural network implementation
@@ -154,14 +141,14 @@ I'm a passionate developer who started with WordPress in 2014 and evolved into a
 </details>
 
 <details>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
+<summary><b>Blockchain & Web3</b></summary>
 
 - **[EVM Auto Transfer Bot](https://github.com/1cbyc/EVM-AutoTransfer-Bot)** - Automated blockchain transfers
 
 </details>
 
 <details>
-<summary><b>🌐 Web Applications</b></summary>
+<summary><b>Web Applications</b></summary>
 
 - **[Go Auth API](https://github.com/1cbyc/go-auth-api)** - Ready to use Go API
 - **[NextJS Blog](https://github.com/1cbyc/next-blog-api)** - Ready to use Blog API & CMS
