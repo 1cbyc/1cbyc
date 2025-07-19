@@ -179,22 +179,6 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-> **Quantitative Development** - Building algorithmic trading systems, financial modeling, and risk management solutions
-
-> **AI/ML Innovation** - Exploring advanced image classification and neural network applications
-
-> **Blockchain Security** - Smart contract auditing and DeFi security assessment
-
-> **Open Source** - Contributing to developer tools and educational resources
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **Available for exciting projects and collaborations!**
