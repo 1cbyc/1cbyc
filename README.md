@@ -14,14 +14,14 @@
 
 > **Full Stack Developer & Security Researcher** with 11+ years of experience building web applications, smart contracts, and security tools.
 
-I'm a passionate developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and AI/ML. I've successfully delivered **120+ freelance projects** and managed **90+ projects** as lead developer at Nsisong Labs.
+I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and AI/ML. I've successfully delivered about **120 freelance projects** and managed **90 projects** as lead developer at Nsisong Labs.
 
 ### 🎯 What I Do
-- 🌐 **Full Stack Development** - Modern web applications with React, Vue, Node.js, Laravel
-- 🔐 **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
-- ⛓️ **Blockchain Development** - Smart contracts, DeFi applications, Web3 integration
-- 🤖 **AI/ML Projects** - Image classification, neural networks, quantitative development
-- 🛠️ **Developer Tools** - VS Code extensions, CLI tools, automation systems
+- **Full Stack Development** - Modern web applications with React, Vue, Node.js, Laravel
+- **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
+- **Blockchain Development** - Smart contracts, DeFi applications, Web3 integration
+- **AI/ML Projects** - Image classification, neural networks, quantitative development
+- **Automation & Developer Tools** - VS Code extensions, CLI tools, automation systems
 
 ---
 
@@ -77,22 +77,22 @@ I'm a passionate developer who started with WordPress in 2014 and evolved into a
 
 <div align="center">
 
-### 🤖 AI/ML & Image Classification
+### AI/ML & Image Classification
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=image_classification&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/image_classification)
 
-### 🌐 Web Scraping & Automation
+### Web Scraping & Automation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=1cbyc-web-scraper&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/1cbyc-web-scraper)
 
-### ⛓️ Trading Bot & Financial Tools
+### Trading Bot & Financial Tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=1cbyc-trading-bot&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/1cbyc-trading-bot)
 
-### 🔐 Security & Encryption
+### Security & Encryption
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=c-file-encryptor&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/c-file-encryptor)
 
-### 🌐 Web Applications
+### Web Applications
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=leetcode&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/leetcode)
 
-### 🔍 Network Analysis
+### Network Analysis
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=emem_network_analyzer&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/emem_network_analyzer)
 
 </div>
