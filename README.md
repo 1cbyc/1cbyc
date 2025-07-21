@@ -70,7 +70,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
-
+<!--
 ---
 
 ## 🚀 Featured Projects
@@ -96,7 +96,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=emem_network_analyzer&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/emem_network_analyzer)
 
 </div>
-
+-->
 
 ---
 
