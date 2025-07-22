@@ -14,7 +14,7 @@
 
 > **Full Stack Developer & Security Researcher** with 11+ years of experience building web applications, smart contracts, and security tools.
 
-I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with expertise in blockchain, security, and passing familiarity with AI/ML. I've successfully delivered about **120 freelance projects** and managed **90 projects** as lead developer at Nsisong Labs.
+I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with experience in blockchain, security, and passing familiarity with AI/ML. I've successfully delivered about **120 freelance projects** and managed projects as lead developer at Nsisong Labs.
 
 ### 🎯 What I Do
 - **Full Stack Development** - I've worked on some web applications with Vue, Node.js, Laravel
@@ -78,7 +78,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 <div align="center">
 
 ### AI/ML & Image Classification
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=image_classification&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/image_classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=pneumonia_identifier&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/image_classification)
 
 ### Web Scraping & Automation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1cbyc&repo=1cbyc-web-scraper&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA)](https://github.com/1cbyc/1cbyc-web-scraper)
@@ -112,7 +112,7 @@ I'm a spontaneous developer who started with WordPress in 2014 and evolved into 
 
 ### 🎯 Current Focus
 ![Quantitative%20Development](https://img.shields.io/badge/Quantitative%20Development-Algorithmic%20Trading-00D4AA?style=for-the-badge&logo=chart-line)
-![AI%2FML](https://img.shields.io/badge/AI%2FML-Image%20Classification-00D4AA?style=for-the-badge&logo=brain)
+![AI%2FML](https://img.shields.io/badge/AI%2FML-Pneumonia%20Identifier-00D4AA?style=for-the-badge&logo=brain)
 ![Blockchain](https://img.shields.io/badge/Blockchain-DeFi%20Development-00D4AA?style=for-the-badge&logo=bitcoin)
 
 </div>
