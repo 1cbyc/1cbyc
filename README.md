@@ -17,10 +17,10 @@
 I'm a spontaneous developer who started with WordPress in 2014 and evolved into a full-stack developer with experience in blockchain, security, and passing familiarity with AI/ML. I've successfully delivered about **120 freelance projects** and managed projects as lead developer at Nsisong Labs too.
 
 ### 🎯 What I Do
-- **Full Stack Development** - I've worked on some web applications with Vue, Node.js, Laravel
+- **Full Stack Development** - I've worked on some web applications with Vue, Node.js, NestJS, Laravel
 - **Blockchain Development** - Smart contracts, DeFi applications, Web3 integration
 - **Security Research** - Penetration testing, bug bounty programs, cybersecurity assessment
-- **AI/ML Projects** - Image classification, neural networks, quantitative development
+- **AI/ML Projects** - Image classification, neural networks, quant development
 - **Automation & Developer Tools** - VS Code extensions, CLI tools, automation systems
 
 ---
