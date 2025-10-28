@@ -1,38 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Isaac+Emmanuel;Backend+Software+Engineer;Built+Software+People+Actually+Use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Isaac+Emmanuel;Backend+Software+Engineer;Built+Software+People+Actually+Use" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1cbyc&style=flat-square&color=00D4AA" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D4AA?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Abeokuta%2C%20Nigeria-00D4AA?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=1cbyc&style=flat-square&color=F97316" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-F97316?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Abeokuta%2C%20Nigeria-F97316?style=flat-square" alt="Location" />
 </div>
 
 ---
 
 ## About Me
 
-**Backend Software Engineer** specializing in building scalable web applications and automation systems. I build robust software from the ground up using TypeScript, C/C++ and Python. I used to write PHP, Erlang, until I decided to get "cracked". Currently maintaining production applications serving active users daily.
+**Software Engineer** with experience building scalable web applications and automation systems. I build robust software from the ground up using TypeScript, Python, and modern web technologies. Currently maintaining production applications serving active users daily.
 
 ---
 
 ## Live Applications (Actively Maintained)
 
-[![SalonBook360](https://img.shields.io/badge/SalonBook360-Complete%20Salon%20Management-00D4AA?style=for-the-badge&logo=globe)](https://salonbook360.xyz)
-[![BulkMailer](https://img.shields.io/badge/BulkMailer-Type%20Safe%20Email%20API-00D4AA?style=for-the-badge&logo=mail)](https://bulkmailer.nsisong.com)
-
+[![SalonBook360](https://img.shields.io/badge/SalonBook360-All%20in%20One%20Beauty%20Business%20Platform-F97316?style=for-the-badge&logo=globe)](https://salonbook360.xyz)
+[![BulkMailer](https://img.shields.io/badge/BulkMailer-Hyper%20Fast%20Marketing%20Email%20Service-F97316?style=for-the-badge&logo=mail)](https://bulkmailer.nsisong.com)
+[![PhishDetect](https://img.shields.io/badge/PhishDetect-Advanced%20URL%20Phishing%20Analysis%20Tool-F97316?style=for-the-badge&logo=shield-check)](https://phishdetect.nsisong.com)
 ---
 
-## Core Technologies
+## Tech Stack
 
+### Backend & Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Testing & DevOps
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -85,10 +103,10 @@
 
 ## Get In Touch
 
-[![Website](https://img.shields.io/badge/Website-nsisong.com-00D4AA?style=for-the-badge&logo=globe)](https://nsisong.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Emmanuel-00D4AA?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/isaacnsisong)
-[![Email](https://img.shields.io/badge/Email-ei@nsisong.com-00D4AA?style=for-the-badge&logo=gmail)](mailto:ei@nsisong.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@1cbyc-00D4AA?style=for-the-badge&logo=twitter)](https://twitter.com/1cbyc)
+[![Website](https://img.shields.io/badge/Website-nsisong.com-F97316?style=for-the-badge&logo=globe)](https://nsisong.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Emmanuel-F97316?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/isaacnsisong)
+[![Email](https://img.shields.io/badge/Email-ei@nsisong.com-F97316?style=for-the-badge&logo=gmail)](mailto:ei@nsisong.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@1cbyc-F97316?style=for-the-badge&logo=twitter)](https://twitter.com/1cbyc)
 
 ---
 
