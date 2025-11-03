@@ -22,7 +22,7 @@
 [![BulkMailer](https://img.shields.io/badge/BulkMailer-Hyper%20Fast%20Marketing%20Email%20Service-F97316?style=for-the-badge&logo=mail)](https://bulkmailer.nsisong.com)
 [![PhishDetect](https://img.shields.io/badge/PhishDetect-Advanced%20URL%20Phishing%20Analysis%20Tool-F97316?style=for-the-badge&logo=shield-check)](https://phishdetect.nsisong.com)
 [![Nidful](https://img.shields.io/badge/Nidful-Vulnerability%20Disclosure%20Platform%20for%20Africa-F97316?style=for-the-badge&logo=shield)](https://nidful.com)
-[![MessageJS](https://img.shields.io/badge/MessageJS-Messaging%20Infrastructure%20for%20Social%20Apps-F97316?style=for-the-badge&logo=message-circle)](https://messagejs.com)
+[![MessageJS](https://img.shields.io/badge/MessageJS-Messaging%20Infrastructure%20for%20Social%20Apps-F97316?style=for-the-badge&logo=message-circle)](https://messagejs.pro)
 ---
 
 ## Tech Stack
