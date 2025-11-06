@@ -3,3 +3,5 @@ requirements.txt
 commit-1.py
 .idea/
 docs/
+cv_generator.tsx
+node_modules/
