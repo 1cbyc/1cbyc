@@ -112,6 +112,10 @@
 [![Email](https://img.shields.io/badge/Email-ei@nsisong.com-F97316?style=for-the-badge&logo=gmail)](mailto:ei@nsisong.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@1cbyc-F97316?style=for-the-badge&logo=twitter)](https://twitter.com/1cbyc)
 
+### Download CV
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-cv--06Nov2025.pdf-F97316?style=for-the-badge&logo=adobe-acrobat-reader)](cv-06Nov2025.pdf)
+
 ---
 
 <div align="center">
