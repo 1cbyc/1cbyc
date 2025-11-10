@@ -105,6 +105,12 @@
 
 ---
 
+## Fun Fact
+
+When I'm not coding, I'm usually exploring star trails with my new telescope or capturing landscapes through my camera lens.
+
+---
+
 ## Get In Touch
 
 [![Website](https://img.shields.io/badge/Website-nsisong.com-F97316?style=for-the-badge&logo=globe)](https://nsisong.com)
