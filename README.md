@@ -120,7 +120,8 @@ When I'm not coding, I'm usually exploring star trails with my new telescope or 
 
 ### Download my CV
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-cv--06Nov2025.pdf-F97316?style=for-the-badge&logo=adobe-acrobat-reader)](cv-06Nov2025.pdf)
+<!-- [![Download CV](https://img.shields.io/badge/Download%20CV-cv--06Nov2025.pdf-F97316?style=for-the-badge&logo=adobe-acrobat-reader)](cv-06Nov2025.pdf) -->
+[![Download CV](https://img.shields.io/badge/Download%20CV-ISAAC_EMMANUEL_SOFTWARE_DEVELOPER_cv--13Nov2025.pdf-F97316?style=for-the-badge&logo=adobe-acrobat-reader)](ISAAC_EMMANUEL_SOFTWARE_DEVELOPER_cv-13Nov2025.pdf)
 
 ---
 
