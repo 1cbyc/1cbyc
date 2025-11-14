@@ -39,3 +39,4 @@ package-lock.json
 !*.pdf
 !*.txt
 !**/README*.md
+auto.sh
