@@ -1,0 +1,42 @@
+commit.py
+requirements.txt
+commit-1.py
+.idea/
+docs/
+cv_generator.tsx
+node_modules/
+.DS_Store
+cv-generator.html
+index.html
+
+# Ignore all HTML files (except README)
+*.html
+
+# Ignore all TypeScript/TSX files
+*.ts
+*.tsx
+
+# Ignore all JavaScript files
+*.js
+
+# Ignore all JSON files
+*.json
+
+# Ignore source directories
+src/
+
+# Ignore config files
+postcss.config.js
+tailwind.config.js
+vite.config.ts
+tsconfig.json
+tsconfig.node.json
+package.json
+package-lock.json
+
+# Keep README files, PDF files, and TXT files
+!README.md
+!*.pdf
+!*.txt
+!**/README*.md
+auto.sh

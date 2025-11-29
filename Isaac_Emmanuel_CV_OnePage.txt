@@ -1,0 +1,58 @@
+ISAAC EMMANUEL
+Software Engineer
+Abeokuta, Nigeria | isaacnsisong@gmail.com | +2348065165879
+nsisong.com | github.com/1cbyc
+
+═══════════════════════════════════════════════════════════════════════════
+
+PROFESSIONAL SUMMARY
+
+Software Engineer with 9 years of experience in designing, maintaining and building scalable backend systems. Expertise in Python development (6+ years), LLM-powered AI implementations, API architecture, and Test-Driven Development. Proven track record leading development teams and delivering production-ready solutions across fintech, medtech, and blockchain sectors.
+
+═══════════════════════════════════════════════════════════════════════════
+
+EXPERIENCE
+
+Fullstack Developer | Nsisong Labs                                Sep 2016 – Jun 2025
+Abeokuta, Ogun
+
+• Led backend development for clients in medtech, fintech, and blockchain sectors
+• Built and deployed production-grade APIs and backend systems using Python
+• Implemented automated testing pipelines and enforced TDD across projects
+• Supervised team of up to 11 developers and managed CI/CD pipelines
+• Engineered AI-powered automation solutions for workflow optimization
+
+Backend Engineer, AI Core Implementation | AdCasa (AdGPT)         Jun 2025 – Oct 2025
+Remote
+
+• Designed and implemented core backend and AI infrastructure with 30+ endpoints
+• Built modular APIs integrating third-party services for ads, analytics, and content generation
+• Integrated LLM-based AI systems for real-time content creation and marketing automation
+• Optimized database schemas for scalability and performance
+• Maintained reliable, testable codebase following TDD principles
+
+═══════════════════════════════════════════════════════════════════════════
+
+EDUCATION
+
+BSc Computer Science | Université Protestante De L'Afrique De L'Ouest    2016 – 2020
+Second Class (Upper Division) | Programmer of the Year Award, 2018
+Porto-Novo, Benin
+
+═══════════════════════════════════════════════════════════════════════════
+
+SKILLS
+
+Languages: Python, TypeScript, SQL
+Frameworks: FastAPI, Flask, Node.js
+Testing: PyTest, UnitTest, TDD workflows
+Databases: PostgreSQL, MySQL, MongoDB, SQLite
+AI/LLM Tools: OpenAI API, LangChain, Pinecone, Vector DBs
+DevOps: Docker, Git, CI/CD, REST API architecture
+Other: System scalability, API documentation, Microservice architecture
+
+═══════════════════════════════════════════════════════════════════════════
+
+REFERENCES
+
+Available upon request
