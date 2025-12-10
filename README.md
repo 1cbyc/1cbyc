@@ -20,7 +20,10 @@
 
 [![SalonBook360](https://img.shields.io/badge/SalonBook360-All%20in%20One%20Beauty%20Business%20Platform-F97316?style=for-the-badge&logo=globe)](https://salonbook360.xyz)
 [![BulkMailer](https://img.shields.io/badge/BulkMailer-Hyper%20Fast%20Marketing%20Email%20Service-F97316?style=for-the-badge&logo=mail)](https://bulkmailer.nsisong.com)
-[![PhishDetect](https://img.shields.io/badge/PhishDetect-Advanced%20URL%20Phishing%20Analysis%20Tool-F97316?style=for-the-badge&logo=shield-check)](https://phishdetect.nsisong.com)
+[![Phish%20Finder](https://img.shields.io/badge/Phish%20Finder-Advanced%20URL%20Phishing%20Analysis%20Tool-F97316?style=for-the-badge&logo=shield-check)](https://www.phishfinder.pro/)
+[![Taxbook](https://img.shields.io/badge/Taxbook-Cloud%20Tax%20Records%20and%20Reporting-F97316?style=for-the-badge&logo=book-open)](https://www.taxbook.pro/)
+[![tg--to--drive](https://img.shields.io/badge/tg--to--drive-Telegram%20to%20Drive%20Automation-F97316?style=for-the-badge&logo=github)](https://github.com/1cbyc/tg-to-drive)
+[![Nsisong%20Labs](https://img.shields.io/badge/Nsisong%20Labs-Product%20Lab%20and%20Consulting-F97316?style=for-the-badge&logo=globe)](https://www.nsisonglabs.com/)
 [![Nidful](https://img.shields.io/badge/Nidful-Vulnerability%20Disclosure%20Platform%20for%20Africa-F97316?style=for-the-badge&logo=shield)](https://nidful.com)
 [![MessageJS](https://img.shields.io/badge/MessageJS-Messaging%20Infrastructure%20for%20Social%20Apps-F97316?style=for-the-badge&logo=message-circle)](https://messagejs.pro)
 [![TxBuilder](https://img.shields.io/badge/TxBuilder-Transaction%20Builder%20Tool-F97316?style=for-the-badge&logo=code)](https://txbuilder.nsisong.com)
