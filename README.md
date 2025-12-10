@@ -88,7 +88,7 @@
 
 - **[Alpaca Trading Bot](https://github.com/1cbyc/1cbyc-trading-bot)** - Algorithmic trading system
 - **[Deriv MT5 Integration](https://github.com/1cbyc/deriv-mt5-bot)** - Multi-platform trading bot
-- **[MT5 Trade Alerts](https://github.com/1cbyc/mt5-trade-alerts)** - MT5 alerting pipeline
+- **[MT5 Trade Alerts](https://github.com/1cbyc/mt5-trade-alerts)** - MT5 Alert Pipeline
 
 </details>
 
