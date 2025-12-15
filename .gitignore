@@ -34,9 +34,18 @@ tsconfig.node.json
 package.json
 package-lock.json
 
-# Keep README files, PDF files, and TXT files
+# Keep README files
 !README.md
-!*.pdf
-!*.txt
 !**/README*.md
+
+# Ignore CV files
+*.pdf
+*cv*.pdf
+*cv*.txt
+*cv*.docx
+CV*.pdf
+Isaac_Emmanuel*.pdf
+Isaac_Emmanuel*.txt
+Q3-2025-CV*.pdf
+
 auto.sh
