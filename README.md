@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Software Engineer** with experience building scalable web applications and automation systems. I build robust software from the ground up using TypeScript, Python, and modern web technologies. Currently maintaining production applications serving active users daily.
+**Software Engineer** with experience building scalable web applications and automation systems. I build robust software from the ground up using TypeScript, Python, and modern web technologies. Currently maintaining live applications serving active users daily.
 
 ---
 
