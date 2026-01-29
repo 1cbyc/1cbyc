@@ -47,7 +47,7 @@
 - **[My LeetCode Archive](https://leetcode.nsisong.com/)** - My Cracked Leetcode Archive
 - **[Nsisong Labs](https://www.nsisonglabs.com/)** - My Product Development Agency
 - **[Go Auth API](https://github.com/1cbyc/go-auth-api)** - JWT authentication system
-- **[NextJS Auth API](https://github.com/1cbyc/api-auth)** - Role-based access control
+- **[NextJS Auth API](https://github.com/1cbyc/api-auth)** - Plug 'n' Play Role-based access control API
 - **[Go Todo API](https://github.com/1cbyc/go-todo-api)** - RESTful service with PostgreSQL
 - **[Rust Load Balancer](https://github.com/1cbyc/rust-http-load-balancer)** - High-performance traffic distribution
 - **[Alpaca Trading Bot](https://github.com/1cbyc/1cbyc-trading-bot)** - Algorithmic trading system
