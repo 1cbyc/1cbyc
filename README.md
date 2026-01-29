@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-  📍 <b>Lives in Lagos, Nigeria & Reading, Berkshire</b> | <b>Software Engineer.</b>
+  📍 <b>Lives in Lagos, Nigeria & Reading, Berkshire</b> | <b>Software Engineer. <br>
+  After 12+ years shipping APIs for web and desktop applications, building automation tools and bots feels like a breath of fresh air. </b>
 </div>
 <br>
 
@@ -30,7 +31,6 @@
 
 </div>
 
-> After 12+ years shipping APIs for web and desktop applications, building automation tools and bots feels like a breath of fresh air.
 
 ## Current Projects (live)
 
