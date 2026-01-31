@@ -34,6 +34,7 @@
 
 ## Current Projects (live)
 
+- **[DebtsTracker](https://debtstracker.nsisong.com/)** - AI-powered personal debts analysis and tracking tool.
 - **[View0x](https://view0x.com)** - AI-powered smart contract vulnerability assessment platform.
 - **[PhishFinder](https://www.phishfinder.pro/)** - Advanced URL Phishing Analysis Tool
 - **[TaxBook](https://www.taxbook.pro/)** - Nigerian Personal Income Tax Calculator
