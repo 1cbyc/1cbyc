@@ -37,10 +37,10 @@
 <!-- - **[MealPlanner](https://github.com/1cbyc/mealplanner)** - Automated nutritious meal planning tool for my wife -->
 - **[MealPlanner](https://mealplanner.nsisong.com)** - Automated nutritious meal planning tool for my wife
 - **[DebtsTracker](https://debtstracker.nsisong.com/)** - AI-powered personal debts analysis and tracking tool.
+- **[TaxBook](https://www.taxbook.pro/)** - Nigerian Personal Income Tax Calculator
 - **[Reluray](https://reluray.com/)** - Disease detection from X-rays
 - **[View0x](https://view0x.com)** - AI-powered smart contract vulnerability assessment platform.
 - **[PhishFinder](https://www.phishfinder.pro/)** - Advanced URL Phishing Analysis Tool
-- **[TaxBook](https://www.taxbook.pro/)** - Nigerian Personal Income Tax Calculator
 - **[SalonBook360](https://salonbook360.xyz)** - All in One Beauty Business Platform
 - **[BulkMailer](https://bulkmailer.nsisong.com)** - Hyper Fast Marketing Email Service
 - **[Nidful](https://nidful.com)** - Vulnerability Disclosure Platform for Africa
