@@ -56,7 +56,6 @@
 - **[Rust Load Balancer](https://github.com/1cbyc/rust-http-load-balancer)** - High-performance traffic distribution
 - **[Alpaca Trading Bot](https://github.com/1cbyc/1cbyc-trading-bot)** - Algorithmic trading system
 - **[MT5 Trade Alerts](https://github.com/1cbyc/mt5-trade-alerts)** - Auto-execute TradingView signals
-<!-- - **[Reluray](https://github.com/1cbyc/reluray)** - Disease detection from X-rays -->
 - **[Pneumonia Classifier](https://github.com/1cbyc/image_classification)** - Medical image analysis (94.2% accuracy)
 - **[Neural Network (Go)](https://github.com/1cbyc/neural-network-go)** - Neural network from scratch
 - **[tg-to-drive](https://github.com/1cbyc/tg-to-drive)** - Telegram to Drive automation
