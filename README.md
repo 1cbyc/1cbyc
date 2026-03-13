@@ -30,7 +30,7 @@
       </td>
     <td>
       <div align="center">
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=1cbyc&count_private=true&show_icons=true&theme=dark&hide_border=true" /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=1cbyc&count_private=true&show_icons=true&theme=dark&hide_border=true" />
         <img src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif">
       </div>
     </td>
