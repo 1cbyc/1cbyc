@@ -14,7 +14,7 @@
       I love working with software and hardware, creating stuff that works.
       <br>
       <br>
-      I have worked on tons of cool software projects (& teams) and I occasionally do work in blockchain and AI security.
+      I have worked on tons of cool software projects (& teams) and I occasionally do work in AI security and blockchain.
       <br>
       <br>
       Please check out my <a href="https://nsisong.com">website</a> to see my projects and checkout my <a href="https://www.linkedin.com/in/isaacnsisong/">Linkedin</a> if you would like to get in contact!
