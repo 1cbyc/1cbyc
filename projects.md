@@ -1,0 +1,34 @@
+
+## Recent Projects...
+
+- **[MealPlanner](https://mealplanner.nsisong.com)** - Automated nutritious meal planning tool for my wife
+- **[DebtsTracker](https://debtstracker.nsisong.com/)** - AI-powered personal debts analysis and tracking tool.
+- **[TaxBook](https://www.taxbook.pro/)** - Nigerian Personal Income Tax Calculator
+- **[Reluray](https://reluray.com/)** - Disease detection from X-rays
+- **[View0x](https://view0x.com)** - AI-powered smart contract vulnerability assessment platform.
+- **[PhishFinder](https://www.phishfinder.pro/)** - Advanced URL Phishing Analysis Tool
+- **[SalonBook360](https://salonbook360.xyz)** - All in One Beauty Business Platform
+- **[BulkMailer](https://bulkmailer.nsisong.com)** - Hyper Fast Marketing Email Service
+- **[Nidful](https://nidful.com)** - Vulnerability Disclosure Platform for Africa
+- **[MessageJS](https://messagejs.pro)** - Messaging Infrastructure for Social Apps (like emailjs but for sms)
+- **[TxBuilder](https://txbuilder.nsisong.com)** - Ethereum Transaction Builder Tool
+- **[YouTube Downloader](https://ytdownloader.nsisong.com/)** - Multiformat Video Downloads for my wife
+- **[SkyStream.pro](https://www.skystream.pro/)** - Space Exploration Suite
+- **[My LeetCode Archive](https://leetcode.nsisong.com/)** - My Cracked Leetcode Archive
+- **[Nsisong Labs](https://www.nsisonglabs.com/)** - My Product Development Agency
+- **[Go Auth API](https://github.com/1cbyc/go-auth-api)** - JWT authentication system
+- **[NextJS Auth API](https://github.com/1cbyc/api-auth)** - Plug 'n' Play Role-based access control API
+- **[Go Todo API](https://github.com/1cbyc/go-todo-api)** - RESTful service with PostgreSQL
+- **[Rust Load Balancer](https://github.com/1cbyc/rust-http-load-balancer)** - High-performance traffic distribution
+- **[Alpaca Trading Bot](https://github.com/1cbyc/1cbyc-trading-bot)** - Algorithmic trading system
+- **[MT5 Trade Alerts](https://github.com/1cbyc/mt5-trade-alerts)** - Auto-execute TradingView signals
+- **[Pneumonia Classifier](https://github.com/1cbyc/image_classification)** - Medical image analysis (94.2% accuracy)
+- **[Neural Network (Go)](https://github.com/1cbyc/neural-network-go)** - Neural network from scratch
+- **[tg-to-drive](https://github.com/1cbyc/tg-to-drive)** - Telegram to Drive automation
+- **[Deriv MT5 Trading Bot](https://github.com/1cbyc/deriv-mt5-bot)** - Algorithmic trading bot for Deriv and MetaTrader 5
+- **[Lab Automation System](https://nsisong.com/lab-automation-system/)** - Lab results automation for hematology labs
+- **[NextJS Blog API](https://github.com/1cbyc/next-blog-api)** - Content management system
+- **[Web Scraper](https://github.com/1cbyc/1cbyc-web-scraper)** - Scalable data extraction
+- **[Network Analyzer](https://github.com/1cbyc/emem_network_analyzer)** - Network monitoring tool
+- **[File Encryptor (C)](https://github.com/1cbyc/c-file-encryptor)** - Low-level file encryption
+- **[Messaging Protocol](https://github.com/1cbyc/messaging-protocol)** - Secure communication protocol
