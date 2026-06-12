@@ -33,7 +33,7 @@
         <a href="https://github.com/1cbyc">
           <img src="https://github-readme-stats.vercel.app/api?username=1cbyc&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats for 1cbyc" />
         </a>
-        <img src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif" alt="Watching intently">
+        <img src="https://c.tenor.com/l_tQP6gd9AYAAAAC/tenor.gif" alt="HBO watching meme">
       </div>
     </td>
   </tr>
